@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="blue_ribbon">#004AAD</color>
+
+    <color name="grey">#909090</color>
+    <color name="grey2">#666666</color>
+    <color name="limeade">#34A101</color>
+    <color name="bright_red">#A10101</color>
+    <color name="chelsea_gem">#A16B01</color>
+    <color name="shadow_60">#99363636</color>
+
 </resources>
